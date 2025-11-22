@@ -1,8 +1,18 @@
 {
    "users": [
-  {
+    {
+        "id": 1,
+        "name": "Andriy",
+        "nametwo":"Bogdan",
+        "surname": "Moskalenko",
+        "photo_url": "https://raw.githubud...",
+        "balance": 1500
+        
+    },
+    {
     "id": 1,
     "name": "Andriy",
+    "nametwo":"Bogdan",
     "surname": "Moskalenko",
     "photo_url": "https://raw.githubud...",
     "balance": 1500
