@@ -18,7 +18,7 @@
     "balance": 1500
 },
 {
-    "id": 2,
+    "id": 3,
     "name": "Daniel",
     "surname": "Wesnovez",
     "photo_url": "https://raw.githubud...",
@@ -26,6 +26,11 @@
 }
     ],
     "products":  [
-
+        {
+            "id": 1,
+            "name": "Orange",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ambersweet_oranges.jpg",
+            "prise": 32
+        }
     ]
 }
