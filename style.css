@@ -3,7 +3,13 @@ header {
     justify-content: center;
 }
 
-h2 {
-    font-size: 34px;
+main {
+    display: flex;
     justify-content: center;
+}
+
+h2 {
+    font-size: 27px;
+    justify-content: center;
+    color: blueviolet;
 }
