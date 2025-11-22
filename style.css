@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 27px;
+    justify-content: center;
+    color: blueviolet;
+}
