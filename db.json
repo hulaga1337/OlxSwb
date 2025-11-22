@@ -16,8 +16,14 @@
     "surname": "Moskalenko",
     "photo_url": "https://raw.githubud...",
     "balance": 1500
-    
-    }
+},
+{
+    "id": 2,
+    "name": "Daniel",
+    "surname": "Wesnovez",
+    "photo_url": "https://raw.githubud...",
+    "balance": 20502
+}
     ],
     "products":  [
 {
