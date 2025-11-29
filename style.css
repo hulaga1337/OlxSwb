@@ -1,6 +1,11 @@
+
 header {
     display: flex;
     justify-content: center;
+}
+
+body {
+    background: linear-gradient( to bottom, #AFEEEE,  #4169E1);
 }
 
 main {
@@ -8,8 +13,18 @@ main {
     justify-content: center;
 }
 
+.container {
+    display: flex;
+    gap: 10px;
+}
+
 h2 {
     font-size: 27px;
     justify-content: center;
     color: blueviolet;
+}
+
+img {
+    height: 60%;
+    width: 80%;
 }
