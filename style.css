@@ -11,7 +11,6 @@ body {
     color: #002f34;
 }
 
-
 header {
     background: #ffffff;
     padding: 15px 20px;
@@ -36,14 +35,9 @@ header nav a {
     font-weight: 500;
 }
 
-body {
-    background: linear-gradient( to bottom, #AFEEEE,  #4169E1);
-}
-
 header nav a:hover {
     color: #007bff;
 }
-
 
 .container {
     width: 90%;
@@ -85,12 +79,6 @@ h2 {
     object-fit: cover;
 }
 
-.container {
-    display: flex;
-    gap: 10px;
-}
-
-
 .card-body {
     padding: 12px 14px;
 }
@@ -121,9 +109,4 @@ footer {
     color: #4a6366;
     padding: 20px;
     text-align: center;
-}
-
-img {
-    height: 60%;
-    width: 80%;
 }
